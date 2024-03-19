@@ -101,6 +101,16 @@ These methods enable accessing and modifying the attributes of a WeatherModel ob
 
 This class serves as a simple container for storing weather data, making it easy to manage and manipulate weather information within the application. It follows the principles of encapsulation by providing getter and setter methods to control access to its attributes.
 
+## Output:
+
+Day time Weather:
+
+![Day time Weather](https://github.com/sriahri/Weather-APP/blob/main/Output/Day_image.png)
+
+Night time Weather:
+
+![Night time Weather](https://github.com/sriahri/Weather-APP/blob/main/Output/Night_image.png)
+
 ## References
 
 [Volley](https://github.com/google/volley)
