@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="city_name">City Name</string>
+    <string name="enter_city">Enter City</string>
+    <string name="a_background_color">A background color</string>
+    <string name="_13">13</string>
+    <string name="condition">Condition</string>
+    <string name="today_weather_update">Today weather update</string>
+    <string name="transparent_color">Transparent color</string>
+    <string name="icon">Icon</string>
+    <string name="time">Time</string>
+</resources>
